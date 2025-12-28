@@ -5,7 +5,7 @@ Building the operational intelligence layer for companies.
 
 [![Website](https://img.shields.io/badge/hamedmp.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hamedmp.com)
 [![Twitter](https://img.shields.io/badge/@TheHamedMP-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TheHamedMP)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamedmp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamedmohammadpour)
 
 ---
 
