@@ -1,7 +1,7 @@
 # Hey, I'm Hamed 👋
 
-**AI Product Engineer & Founder** @ [Finna.ai](https://finna.ai)
-Building the operational intelligence layer for companies.
+**Product Engineer & Founder** @ [Matrix OS](https://matrix-os.com)
+Building the Web 4.0 vision (self-expanding OS and Personal Cloud Computers). 
 
 [![Website](https://img.shields.io/badge/hamedmp.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hamedmp.com)
 [![Twitter](https://img.shields.io/badge/@TheHamedMP-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TheHamedMP)
